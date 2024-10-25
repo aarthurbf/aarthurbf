@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Arthur+Bobadilla+Franchi;Tenho+18+Anos;Moro+em+São+Paulo,+SP;Atualmente+cursando+Engenharia+de+Software+na+FIAP;Seja+Bem-Vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Arthur+Bobadilla+Franchi;I+am+18+Years+old;I+live+in+São+Paulo,+Brazil;Currently+studying+Software+Engineering+at+FIAP;+Welcome!)](https://git.io/typing-svg)
 
 
 <div align="center">  
